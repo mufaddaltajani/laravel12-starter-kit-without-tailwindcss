@@ -1,14 +1,12 @@
 # Laravel 12 Without Tailwind CSS
 
----
-
 ## **Clone the Repository**
 
 Clone the Laravel project from GitHub:
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/mufaddaltajani/laravel12-starter-kit-without-tailwindcss.git
+cd laravel12-starter-kit-without-tailwindcss
 ```
 
 ## **Install Dependencies**
